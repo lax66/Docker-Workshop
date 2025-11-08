@@ -407,7 +407,7 @@ CMD ["node", "./src/index.js"]
    * ✅ The build is significantly faster.
    * ✅ Only the modified steps run again.
 
-4. This demonstrates the true **power and efficiency of Docker build c
+4. This demonstrates the true power and efficiency of Docker build cache.
 
 
 
